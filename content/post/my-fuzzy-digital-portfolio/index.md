@@ -14,8 +14,6 @@ Recently, I regained my old domain name which was lost long ago due to some reas
 
 Let me first come to my digital skills and writing journey here. I touched the computer for the first time when I was 12. The prominent things at that time were MS-DOS, Windows, Word Perfect, Batch Programming, perhaps LOGO programming (faint memories on this), and the games like Prince of Persia (You know 90s kid! 😂). Gradually, my digital skills evolved along with high school and higher education. Spcifically for Blogs/Websites, the skills revolved around WordPress, Jekyll, Hugo, HTML, DHTML, CSS, and a few other stuffs on designing, content production, and publishing.
 
-![Not a Metaphor of My Digital Skills!](https://www.dipeshdulal.com.np/assets/img/my-fuzzy-digital-portfolio.webp){: .mx-auto.d-block :}
-
 Writing, on the other hand, has been somehow consistent at my side. I remember a fictional story that I wrote in Nepali, on paper. One of my best friends from high school said that he really liked the plot and the association of the protagonist with nature and his virtual relationships. Unfortunately, I lost those pages while I moved my room.
 
 It was during my undergraduate studies and later life, I became more immersed in reading, writing, and mostly contemplating- world issues of environment, society, and education (of course). I believe that writing blogs on issues that have significance and meaning in the lives of humankind should be one of the key actions that people can do.
