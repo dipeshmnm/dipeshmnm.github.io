@@ -6,7 +6,7 @@ tags:
   - Nepal
   - mysticism
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Biodiversity and wilderness have been integral component of Nepalese mysticism.'
 ---
 
 Many places in Nepal have Naag ko (S)Than. Naag is the snake god. Every snake is considered a god in Nepal, and no one should kill a snake. Naag ko S(Than) means place of snake- home of snakes. One should not mess up with a snake’s home.
