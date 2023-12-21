@@ -7,4 +7,4 @@ Say that this is a marketing page. However, I feel urged to mention some special
 
 For this website, I use [HugoBlox template](https://hugoblox.com/templates/) in full integration with [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/).
 
-For NepaleseTeacher.Org, I use WordPress with Kadence theme. And for LifeNP.com, I use Blogger with Materia X2 template.
+For [NepaleseTeacher.Org](https://www.nepaleseteacher.org/), I use WordPress with Kadence theme. And for [LifeNP.Com](https://www.lifenp.com/), I use Blogger with not fixed template yet.
