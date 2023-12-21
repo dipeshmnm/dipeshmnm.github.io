@@ -179,8 +179,8 @@ These days, I have been directing myself towards study and research on 'educatio
 
 I personally believe that blogging involves far more and a wide range of creativity which can hardly be realized when one indulges more in swiping (or scrolling) almost forever on so-called social-media platforms like Facebook, YouTube, TikTok, etc. So, you might have understood why I help others in blogging besides my personal schedules of study and career.
 
-I write blogs on three websites. On this personal site, I do not write heavily. However, I may write here pouring my (critical) views on on anything that concerns me. On [NepaleseTeacher.Org](https://www.nepaleseteacher.org/){:target="_blank"}, I write on various topics related to 'education' and 'pedagogy' in general. As a wannabe digital nomad from Nepal, I also write blogs on topics that would be in the interests of Nepalese mass (encompassing non-citizens with Nepali cultural heritage, living in Nepal and abroad) on [LifeNP.Com](https://www.lifenp.com/){:target="_blank"}.
+I write blogs on three websites. On this personal site, I do not write heavily. However, I may write here pouring my (critical) views on on anything that concerns me. On [NepaleseTeacher.Org](https://www.nepaleseteacher.org/), I write on various topics related to 'education' and 'pedagogy' in general. As a wannabe digital nomad from Nepal, I also write blogs on topics that would be in the interests of Nepalese mass (encompassing non-citizens with Nepali cultural heritage, living in Nepal and abroad) on [LifeNP.Com](https://www.lifenp.com/).
 
 Despite the fact that I have decided to take part in constructive engagement with others via digital media, face-to-face and spatial engagements premised on local and global issues are important for global sustainability.
 
-You can reach me out via [LinkedIn](https://www.linkedin.com/in/dipeshdulal/){:target="_blank"}.
+You can reach me out via [LinkedIn](https://www.linkedin.com/in/dipeshdulal/).
