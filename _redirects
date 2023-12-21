@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/p/about-me.html     /about/
+/p/privacy-policy.html    /
+/2023/12/mysticism-in-nepal.html    /post/mysticism-in-nepal/
+/2023/11/my-fuzzy-digital-portfolio.html /post/my-fuzzy-digital-portfolio/
