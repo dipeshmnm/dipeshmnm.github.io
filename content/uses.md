@@ -1,20 +1,10 @@
 ---
-title: Uses
+title: Recommended Products
 date: 2023-10-24
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
+Say that this is a marketing page. However, I feel urged to mention some special stuffs that I use in my digital presence.
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
+For this website, I use [HugoBlox template](https://hugoblox.com/templates/) in full integration with [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/).
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
-
-## Editor + Terminal
-
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
-
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts
+For NepaleseTeacher.Org, I use WordPress with Kadence theme. And for LifeNP.com, I use Blogger with Materia X2 template.
