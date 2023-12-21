@@ -1,6 +1,6 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: My Fuzzy Digital Portfolio
+summary: Explore the digital wonders of working with me!
 date: 2023-10-23
 tags:
   - Digital Portfolio
