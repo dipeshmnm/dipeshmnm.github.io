@@ -11,7 +11,7 @@ last_name: Dulal
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙏
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,17 +27,17 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/NomadicDipesh
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/dipeshmnm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/dipeshdulal
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
