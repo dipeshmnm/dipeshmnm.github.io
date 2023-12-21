@@ -169,14 +169,18 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
+## Hi! I am Dipesh Dulal, an educator and a blogger.
 
-I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
+My enthusiasm for web publishing started in the early 2000s while I was in my early years in the university. I started teaching career later in the same decade.
 
-My research interests include:
+Because of my passion for teaching and blogging, I achieved some life-changing opportunities in 2010s. In the 2020s, I have transformed my way of working (on blogs and in education) a little differently than in the past.
 
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+These days, I have been directing myself towards study and research on 'education for sustainability' as an agenda of achieving global good through education. I have been an avid fan of place-based theories, and still believe in it’s relevance in post-2015 agenda of education and development.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
+I personally believe that blogging involves far more and a wide range of creativity which can hardly be realized when one indulges more in swiping (or scrolling) almost forever on so-called social-media platforms like Facebook, YouTube, TikTok, etc. So, you might have understood why I help others in blogging besides my personal schedules of study and career.
+
+I write blogs on three websites. On this personal site, I do not write heavily. However, I may write here pouring my (critical) views on on anything that concerns me. On [NepaleseTeacher.Org](https://www.nepaleseteacher.org/){:target="_blank"}, I write on various topics related to 'education' and 'pedagogy' in general. As a wannabe digital nomad from Nepal, I also write blogs on topics that would be in the interests of Nepalese mass (encompassing non-citizens with Nepali cultural heritage, living in Nepal and abroad) on [LifeNP.Com](https://www.lifenp.com/){:target="_blank"}.
+
+Despite the fact that I have decided to take part in constructive engagement with others via digital media, face-to-face and spatial engagements premised on local and global issues are important for global sustainability.
+
+You can reach me out via [LinkedIn](https://www.linkedin.com/in/dipeshdulal/){:target="_blank"}.
