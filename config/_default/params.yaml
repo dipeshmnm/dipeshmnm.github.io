@@ -31,8 +31,7 @@ header:
   navbar:
     enable: true
     logo:
-      # Logo text
-      text: "Dipesh Dulal"
+     text: "Dipesh Dulal"
     show_search: true
     show_theme_chooser: true
 
