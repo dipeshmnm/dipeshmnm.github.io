@@ -30,8 +30,6 @@ marketing:
 header:
   navbar:
     enable: true
-    logo:
-     text: "Dipesh Dulal"
     show_search: true
     show_theme_chooser: true
 
