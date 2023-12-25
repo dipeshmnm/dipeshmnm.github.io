@@ -40,9 +40,7 @@ Your presence along with names will be registered at various points- mostly at t
 
 Actually, the motorable road can lead one up to the Nagarjun Peak. However, there is an allotted trail for hiking. One must adhere to the trail. Otherwise, s/he may risk the biodiversity, and/or expose to the dangers of the wilderness.
 
-{{% callout Do you know? %}}
-On the day of Buddha Jayanti, the pilgrims make a spectacular caravan en route to Jamacho Peak
-{{% /callout %}}
+
 
 **The Top!**
 
