@@ -169,7 +169,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Hi! I am Dipesh Dulal, an educator and a blogger.
+## an educator and a blogger.
 
 I started a teaching job in 2007. It was a small primary school in Kathmandu where I discovered that many pedagogical issues needed to be addressed in Nepal's school education. Besides teaching, I initiated a library project and international collaboration projects in the same school.
 
