@@ -28,22 +28,22 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dipesh.dulal@iwschool.edu.np'
     label: E-mail Me
-  - icon: brands/x
+ # - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/dipeshmnm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
+    url: https://www.linkedin.com/in/dipeshdulal
+#  - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Pedagogy and Teaching for Sustainability
+    institution: University of Eastern Finland
+    date_start: 2021
+    date_end: 2023
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -169,7 +169,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
+## Teaching, Learning, Thinking out Loud about Global
 
 I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
 
