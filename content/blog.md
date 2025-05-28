@@ -1,7 +1,6 @@
 ---
 title: Blog
 date: 2023-10-24
-type: landing
 sections:
   - block: collection
     content:
