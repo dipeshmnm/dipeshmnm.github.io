@@ -2,13 +2,15 @@
 title: 'Home'
 date: 2023-10-24
 type: landing
+
+# Page sections
 sections:
-  - block: collection
+  - block: resume-biography-2
     content:
-      filters:
-        folders:
-          - post
-      count: 25
+      title: 🙏🏻 Namaste
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
     design:
-      view: article-grid
+      spacing:
+        padding: [0, 0, 0, 0]
 ---
