@@ -154,8 +154,8 @@ I am a research scientist at Open AI where I am currently working on training Ch
 
 My research interests include:
 
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Education for Sustainability
+- Place-based Education
+- Transformative Education
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
