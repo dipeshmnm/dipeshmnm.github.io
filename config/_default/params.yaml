@@ -32,6 +32,8 @@ header:
     enable: true
     show_search: true
     show_theme_chooser: true
+    logo:
+      text: "Dipesh Dulal's Blog"
 
 # Site footer
 footer:
