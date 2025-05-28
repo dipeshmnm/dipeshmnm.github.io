@@ -1,6 +1,7 @@
 ---
 title: 'Blog'
 date: 2023-10-24
+type: landing
 sections:
   - block: collection
     content:
@@ -11,3 +12,4 @@ sections:
     design:
       view: article-grid
 ---
+**Blog Posts**
