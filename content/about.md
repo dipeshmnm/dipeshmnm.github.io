@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: resume-biography-2
     content:
-      title: 👋 Hey, I’m Shiung
+      title: 🙏🏻 Namaste, Welcome to the personal blog of Dipesh Dulal.
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
