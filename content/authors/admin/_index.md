@@ -1,76 +1,55 @@
 ---
 # Display name
-title: 吳健雄
+title: Dipesh Dulal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dipesh
+last_name: Dulal
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌿
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Educator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Imperial World School
+    url: https://www.iwschool.edu.np/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/dipeshmnm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/dipeshdulal
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Pedagogy and Teaching for Sustainability
+    institution: University of Eastern Finland
+    date_start: 2021-08-01
+    date_end: 2023-10-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis (coauthored with Xinhua Mu) on _Informal Learning through Experiencing: Navigating hands-on skills, environmental consciousness, and intercultural communication competence of farm volunteers in Finland_.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://erepo.uef.fi/server/api/core/bitstreams/f33ff38e-0198-4dd6-946a-6abd4f3c9dc3/content'
+  - area: Multicultural and International Education
+    institution: Oslo and Akershus University College of Applied Sciences
+    date_start: 2014-08-01
+    date_end: 2017-12-19
+  - area: Rural Development
+    institution: Tribhuvan University
+    date_start: 2006
+    date_end: 2009
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
