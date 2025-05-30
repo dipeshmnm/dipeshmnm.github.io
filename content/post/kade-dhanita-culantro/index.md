@@ -15,8 +15,6 @@ Nepali Kade Dhaniya (Kaade Dhaniya, Ban Dhaniya, Burmeli Dhaniya) is not Nepali 
 
 One of my neighbors gifted me with a new kind of herb with a pleasant aroma in 2019. The smell was similar to that of cilantro (coriander). I planted it on the poly bag of my rooftop garden. Rest is history; I now have almost become an activist in spreading culantro throughout my circle of the organic movement.
 
-![Nepali Kade Dhaniya - Culantro](kaade-dhaniya-cultantro.webp "Nepali Kade Dhaniya - Culantro")
-
 Initially, I did not intentionally expand the plant by vegetative propagation or by seeds. I did not observe any significant root system development so that I could perform a vegetative propagation. Yet, I found its young sprouts here and there in my garden. I have been giving off those sprouts to my acquaintances. I am close to the conclusion (after reading educational resources) that this random propagation has been because of the natural spreading of small seeds that formed on the mature plants.
 
 It was only during the summer of 2024, that I sowed the proper seeds of culantro, got saplings grown, and distributed amongst my colleagues, neighbours, and relatives.
