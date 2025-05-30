@@ -1,7 +1,7 @@
 ---
 title: Nature Activities for Kids
 summary: With this blog post, you may get ideas of some pragmatic nature activities that can be done with kids. 
-date: 2024-07-09
+date: 2024-06-18
 authors:
   - admin
 tags:

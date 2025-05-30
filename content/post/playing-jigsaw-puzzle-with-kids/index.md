@@ -1,7 +1,7 @@
 ---
 title: Why Jigsaw Puzzles Are More Than Just Fun for Kids’ Development
 summary: Explore the benefits of solving jigsaw puzzles with kids as a way to boost problem-solving, patience, and social interaction.
-date: 2024-06-18
+date: 2024-02-16
 authors:
   - admin
 tags:
