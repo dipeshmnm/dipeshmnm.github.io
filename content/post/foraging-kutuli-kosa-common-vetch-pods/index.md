@@ -1,5 +1,5 @@
 ---
-title: Collecting Common Vetch Pods (Kutuli Kosa): Outdoor Nature Activity with Kids
+title: Collecting Common Vetch Pods (Kutuli Kosa)- Outdoor Nature Activity with Kids
 summary: Interested Nepali might be wondering what  Kutuli Kosa (or Kutil Kosa) is in English. This wild pea-like herb is called 'common vetch' in anglosphere.
 date: 2024-01-30
 
