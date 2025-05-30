@@ -35,4 +35,8 @@ Air Potato is a wild climber that can be used as credible food source.
 
 We know that we are feeble in production capacity so that we could sustain our food sources with locally grown/produced and organic stuffs. However, our action can prove to pose an alternative thought pattern in the space and time fluidity that has been evident with consumerism, mass media, social media, algorithms, accelerated climate change and all that lie in the spectrum of wicked problems of the world.
 
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":\[{"@type":"Question","name":"Why is gittha (गिट्ठा) called air potato in English?","acceptedAnswer":{"@type":"Answer","text":"I assume that the name holds true. The tuber looks like potato and it grows aerially attached to the expanding shoots of this specific climber plant."}},{"@type":"Question","name":"What is gittha called in English","acceptedAnswer":{"@type":"Answer","text":"Tuber of Gittha is called 'air potato' in English."}}\]}
+**Why is gittha (गिट्ठा) called air potato in English?**
+I assume that the name holds true. The tuber looks like potato and it grows aerially attached to the expanding shoots of this specific climber plant
+
+**What is gittha called in English?**
+Tuber of Gittha is called 'air potato' in English.
