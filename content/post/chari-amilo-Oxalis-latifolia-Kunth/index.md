@@ -1,5 +1,5 @@
 ---
-title: Chari Amilo: A Sour Taste of Childhood and Risk-Based Learning in Nature
+title: Chari Amilo- A Sour Taste of Childhood and Risk-Based Learning in Nature
 summary: Explore the tangy thrill of tasting Oxalis latifolia (Chari Amilo) with kids, blending childhood memories, nature-based learning, and the importance of safe risk-taking in environmental education.
 date: 2024-10-18
 authors:
