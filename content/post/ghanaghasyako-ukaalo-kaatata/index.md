@@ -1,11 +1,12 @@
 ---
 title: Ghanaghasyako Ukalo Kaatata- Revisiting Taranath Sharma
-summary: Ghanaghasyako Ukalo Kaatata is the travel memoir written by Taranath Sharma renowned for the way the author writes about his patriotism, awareness of the mightiness of the nature; more notably the storytelling.
+summary: Ghanaghasyako Ukalo Kaatata is the travel memoir written by Taranath Sharma renowned for the way the author hints his patriotism, love for the nature, aesthetic imagination, some awareness of human geography; and more notably the storytelling.
 date: 2025-01-05
 authors:
   - admin
 tags:
   - Reading
+  - Human Geography
 image:
   caption: 'Taranath Sharma'
 ---
