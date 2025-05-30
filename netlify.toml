@@ -22,7 +22,109 @@
     debug = true
 
 [[redirects]]
-  from = "/old-post/"
-  to = "/new-post/"
+  from = "/2023/10/jamacho-gumba-hiking.html"
+  to = "/post/jamacho-hiking/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2023/10/mysticism-in-nepal.html"
+  to = "/post/mysticism-in-nepal/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/01/informal-learning-with-museum.html"
+  to = "/post/informal-learning-with-museum/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/01/kutil-kosa-common-vetch.html"
+  to = "/post/foraging-kutuli-kosa-common-vetch-pods/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/02/word-search-grid-parenting.html"
+  to = "/post/word-search-grid-with-kids/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/02/sajha-publication-outlet.html"
+  to = "/post/sajha-prakashan-outlet-bhrikuti-mandap/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/02/jigsaw-puzzle-for-kids.html"
+  to = "/post/playing-jigsaw-puzzle-with-kids/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/04/home-tuition.html"
+  to = "/post/home-tuition-social-capital/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/05/chatgpt-and-gemini-student-feedback.html"
+  to = "/post/writing-student-feedback-with-ai/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/06/nepali-kade-dhaniya-culantro.html"
+  to = "/post/kade-dhanita-culantro/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/01/nature-activities-for-children.html"
+  to = "/post/nature-activities-for-kids/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/07/south-american-pepino-growing-on-my.html"
+  to = "/post/pepino-melon-in-nepali-garden/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/08/group-activity-collaboration-skills.html"
+  to = "/post/group-activity-collaboration-skills/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/08/epic-pen-for-online-teaching.html"
+  to = "/post/epic-pen-for-online-teaching/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/09/cooking-air-potato.html"
+  to = "/post/cooking-air-potato/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/10/chari-amilo-oxalis-latifolia-kunth.html"
+  to = "/post/chari-amilo-oxalis-latifolia-kunth/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2024/12/mend-your-shoes-and-become-minimalist.html"
+  to = "/post/repairing-shoes-minimalism/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2025/01/ghanaghasya-ko-ukalo.html"
+  to = "/post/ghanaghasyako-ukaalo-kaatata/"
   status = 301
   force = true
