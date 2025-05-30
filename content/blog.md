@@ -8,7 +8,7 @@ sections:
       filters:
         folders:
           - post
-      count: 25
+      count: 6
     design:
       view: article-grid
 ---
