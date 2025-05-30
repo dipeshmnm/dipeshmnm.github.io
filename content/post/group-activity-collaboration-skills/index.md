@@ -5,8 +5,7 @@ date: 2024-08-03
 authors:
   - admin
 tags:
-  - Reading
-  - Human Geography
+  - Activity-based Learning
 image:
   caption: 'Collaboration skills can be best learned by being and doing!'
 ---
