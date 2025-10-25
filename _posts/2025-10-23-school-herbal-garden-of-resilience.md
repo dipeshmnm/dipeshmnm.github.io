@@ -2,6 +2,8 @@
 layout: post
 title:  School Herbal Garden of Resilience
 categories: [Environmental Education,Project Based Learning]
+redirect_from:
+  - /2025/10/school-herbal-garden-of-resilience.html
 excerpt: The school herbal garden did not fail, but adds to the story of social and ecological resilience.
 ---
 
