@@ -1,0 +1,24 @@
+---
+layout: post
+title:  School Herbal Garden of Resilience
+categories: [Environmental Education,Project Based Learning]
+excerpt: The school herbal garden did not fail, but adds to the story of social and ecological resilience.
+---
+
+Well, I am not here to glorify the school's herbal garden project, as I believe it did not go as expected, acknowledging the circumstances.
+
+On the onset of summer of 2025, we got a plot of land - around 6 m x 1m, quite rectangular on the edge of the land - that is otherwise an edge of the school's paddy field. The project was, in fact, initiated by me, aiming to get the enthusiasm of the kids to work on something that would make them realize their own agency in reclaiming the natural connection, moreover, the symbiosis of the human and the natural elements. 
+
+Some boys showed interest and joined the club, as it was announced as the 'School Herbal Gardening Club'. The club would work on the herbal garden at least during the morning hours of alternative Sundays (Nepal's schools are open on Sundays!). We could also work on the garden during the needful times. However, this could not be materialized well, due to circumstances such as other school duties and happenings.
+
+The first Sunday, we worked together to make the soil bed. The boys were not prepared for this. However, since they are voluntarily in, they could not seek other options - at least they did not ask for a change despite the fact that they already showed uneasiness working on the soil. To me, that was really a radical programming for getting hands back to nature, the ones that were used to the flashy dopamine triggers (I mean digital devices). Together, we dug the soil, removed the weeds, and prepared the soil bed for herbal plantations. After a fortnight, the soil bed was already full of wild weeds. We again had to prepare it on the same day - we planted herbs like culantro, strawberry plants, mint, lemon grass, and we also sowed some seeds of various legumes.
+
+Gradually, the South Asian monsoon began to hit really hard; our herbal garden was waterlogged. The school planted paddy on the other side, which mostly remains tilled with water. The adjoining plot of land would definitely suffer. I had to take the boys to another exploratory project as ours was hampered by the weather (and soil) conditions. If the day was not wet, I would ask the boys to work in some way to drain the water off, with no satisfactory outcome, as this plot of garden was on the lowest level of the school's land. Had the herbs grown to some extent, I could have asked them to do some pruning. 
+
+When the boys were indoors during the herbal gardening project, I helped them do individual SWOT analyses of the project that was already started and was almost in limbo. For external factors, I also introduced PESTLE analysis. The boys really showed contemplative capabilities while working on these. As an environmental educator in a country that has removed environmental science/education as a mandatory school subject, I felt that I carry some agency in environmental education. 
+
+I also learned that environmental education and inculcation of enthusiasm in kids should be really working when the 'home' shares enthusiasm and pragmatism in partnerships/communication with the school. One of these boys was found to be conversing about the project with his family. They sent some seeds for the garden (that failed, of course, because of waterlogging) and also expected some saplings of culantro if we could propagate well in the school herbal garden.
+
+While the school community is on a festival break, I am sure we will do things differently when we return to school. The school is also planning to construct a volleyball court on the same paddy field. Hence, our herbal garden, which has some culantro and mint plants (only these herbs survived the waterlogging, and are still standing green this autumn), may be taken over by the school's volleyball court. I also become emotional as I go through the project's reflections from the boys. One boy had written "I think that the future of herbal gardening at (school's name) is good, as the rainy season is ending, but a volleyball court might be built on the garden. But we may get a better place and landscape".
+
+As a proud environmental educator with no 'hopelessness', I am currently reevaluating and juxtaposing my EE efforts (also with my own kids, who do not study at the same school; we do things at home) against the contemporary world-system. While acknowledging that environmentalism should scale up, and should instill extensive reorientations among people's lifestyles/livelihoods and economies in this world, I decided to provide a catchy topic for my blog post - School Herbal Garden of Resilience.
